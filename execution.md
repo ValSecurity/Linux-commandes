@@ -1,1 +1,1 @@
-`bash` nom du script: Execution du scrip ciblé
+`bash` nom du script: Execution du script ciblé

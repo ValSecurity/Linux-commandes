@@ -8,3 +8,5 @@
 
 `touch` nom du document texte : création d'un document texte
 
+`rm` chemin de la cible : supression de la cible
+
